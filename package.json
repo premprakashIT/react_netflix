@@ -1,0 +1,21 @@
+{
+  "name": "react-netflix",
+  "version": "1.0.0",
+  "description": "npm init -y\r npm install react --save\r npm install react-dom --save\r npm install install @babel/standalone --save\r npm install bootstrap --save\r npm install bootstrap-icons --save\r npm install jquery --save",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/standalone": "^7.24.6",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "jquery": "^3.7.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
